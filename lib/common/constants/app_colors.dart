@@ -10,4 +10,5 @@ class AppColors {
   static const List<Color> gradientePadrao = [verdeUm, verdeDois];
   static const Color branco = Color(0xffFFFFFF);
   static const Color vermelhoAmor = Color(0x9EC42323);
-}
+  static const List<Color> gradienteVermelho = [vermelhoAmor, (Color(0x9ECF4D4D))];
+  }
